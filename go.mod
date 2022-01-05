@@ -1,4 +1,4 @@
-module cloud.habales.de/falko/GrootCA
+module github.com/HaBaLeS/GrootCA
 
 go 1.17
 
